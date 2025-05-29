@@ -1,0 +1,35 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Maven target directory
+target/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Java-specific files
+*.class
+
+# Generated files
+*.jar
+*.war
+*.ear
+
+# Test output
+test-output/
+
+# Spring Boot specific
+spring.log
+
+# Environment files
+.env
