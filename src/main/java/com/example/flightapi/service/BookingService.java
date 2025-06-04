@@ -114,7 +114,7 @@ public class BookingService {
     booking.setUser(user);
     booking.setFlight(flight);
     booking.setReference(reference);
-    booking.setStatus("CONFIRMED");
+    booking.setStatus("Upcoming");
     booking.setBookingTime(LocalDateTime.now());
     booking.setTotalPrice(totalPrice);
 
